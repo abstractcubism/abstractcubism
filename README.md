@@ -1,4 +1,5 @@
-#ai engineer | software engineer | your next intern<br><br>currently working on: <br>- assignments<br>- personal budget app<br>- freelance work<br>
+### ai engineer | software engineer | your next intern 
+currently working on: <br>- assignments<br>- personal budget app<br>- freelance work<br>
 
 
 ## Socials:
