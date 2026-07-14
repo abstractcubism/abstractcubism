@@ -1,5 +1,10 @@
-## ai engineer | software engineer | your next intern 
-currently working on: <br>- assignments :')<br>- personal budget app (pandas, ai, ml, typescript)<br>- freelance work<br>
+## ai engineer | software engineer | your next hire 
+currently working on: 
+<br>- assignments :')
+<br>- applications! hello there if you came from one
+<br>- DJ Y
+<br>- some other personal projects that will become public very soon ;)
+<br>- freelance work<br>
 
 ## tech stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
