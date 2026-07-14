@@ -2,6 +2,7 @@
 currently working on: 
 <br>- assignments :')
 <br>- applications! hello there if you came from one
+<br>- Microsoft AI-103/Azure AI apps+agents developer certification!
 <br>- DJ Y
 <br>- some other personal projects that will become public very soon ;)
 <br>- freelance work<br>
